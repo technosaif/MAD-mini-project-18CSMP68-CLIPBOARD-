@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Clipboard1</string>
+    <array name="color">
+        <item>Choose Color</item>
+        <item>RED</item>
+        <item>BLACK</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+</array>
+    <array name="size">
+        <item>Choose Size</item>
+        <item>"20"</item>
+        <item>"25"</item>
+        <item>"30"</item>
+        <item>"35"</item>
+    </array>
+    <array name="style">
+        <item>Choose Style</item>
+        <item>brownie</item>
+        <item>uoi</item>
+        <item>oihoih</item>
+        <item>uhohoi</item>
+    </array>
+
+</resources>
